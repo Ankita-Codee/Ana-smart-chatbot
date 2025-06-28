@@ -4,11 +4,11 @@ Ana is a multilingual, memory-enabled AI chatbot built using LangGraph, LangChai
 
 This project demonstrates how to build stateful, intelligent chatbots using LangGraph’s powerful workflow engine, making it easy to add:
 
-✅ Conversation memory
-✅ Custom personalities (like a chef, pirate, or teacher)
-✅ Multilingual support (e.g., Hindi, French)
-✅ Streaming responses for fast and interactive chats
-✅ Message trimming to handle long conversations efficiently
+* ✅ Conversation memory
+* ✅ Custom personalities (like a chef, pirate, or teacher)
+* ✅ Multilingual support (e.g., Hindi, French)
+* ✅ Streaming responses for fast and interactive chats
+* ✅ Message trimming to handle long conversations efficiently
 
 # 🔧 Tech Stack
 LangGraph (v0.3)
